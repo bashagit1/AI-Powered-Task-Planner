@@ -3,4 +3,4 @@ openai
 pandas
 python_dotenv
 SimplerLLM
-lxml-[html-clean]
+lxml[html_clean]
